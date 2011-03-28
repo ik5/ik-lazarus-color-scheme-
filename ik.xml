@@ -1,0 +1,227 @@
+<?xml version="1.0"?>
+<CONFIG>
+  <Lazarus>
+    <ColorSchemes Version="6">
+      <Names Count="1">
+        <Item1 Value="Ik"/>
+      </Names>
+      <Globals Version="6">
+        <SchemeIk>
+          <ahaGutter Background="clBtnFace"/>
+          <ahaDefault Background="clWhite" Foreground="clBlack"/>
+          <ahaErrorLine Background="5284095" Foreground="clBlack"/>
+          <ahaMouseLink Foreground="clBlue"/>
+          <ahaTextBlock Background="clNavy" Foreground="clWhite"/>
+          <ahaWordGroup FrameColor="clRed"/>
+          <ahaFoldedCode Background="clWhite" Foreground="clSilver" FrameColor="clSilver"/>
+          <ahaRightMargin Foreground="clSilver"/>
+          <ahaBracketMatch FrameColor="clRed" Style="fsBold" StyleMask="fsBold"/>
+          <ahaHighlightAll Background="clYellow"/>
+          <ahaModifiedLine Foreground="clGreen" FrameColor="59900"/>
+          <ahaHighlightWord Background="15132390" FrameColor="clSilver"/>
+          <ahaSyncroEditCur FrameColor="clFuchsia"/>
+          <ahaExecutionPoint Background="clGray" Foreground="clWhite"/>
+          <ahaSyncroEditArea Background="clMoneyGreen"/>
+          <ahaSyncroEditSync FrameColor="clRed"/>
+          <ahaCodeFoldingTree Background="clWhite" Foreground="clSilver"/>
+          <ahaGutterSeparator Background="clWhite" Foreground="clGray"/>
+          <ahaSyncroEditOther FrameColor="9744532"/>
+          <ahaTemplateEditCur FrameColor="clAqua"/>
+          <ahaTemplateEditSync FrameColor="clFuchsia"/>
+          <ahaEnabledBreakpoint Background="clRed" Foreground="clBlack"/>
+          <ahaIncrementalSearch Background="3199088" Foreground="clWhite"/>
+          <ahaInvalidBreakpoint Background="clOlive" Foreground="clGreen"/>
+          <ahaTemplateEditOther FrameColor="clMaroon"/>
+          <ahaUnknownBreakpoint Background="clRed" Foreground="clBlack"/>
+          <ahaDisabledBreakpoint Background="clGreen" Foreground="clBlack"/>
+        </SchemeIk>
+      </Globals>
+      <LangObjectPascal Version="6">
+        <SchemeIk>
+          <ahaRightMargin Foreground="clBtnFace" UseSchemeGlobals="False"/>
+          <ahaBracketMatch FrameColor="clNone" StyleMask=""/>
+          <Number Foreground="clNavy" Style="fsBold" UseSchemeGlobals="False"/>
+          <String Background="clGreen" Foreground="clYellow" Style="fsBold" UseSchemeGlobals="False"/>
+          <Symbol Foreground="865023" Style="fsBold" UseSchemeGlobals="False"/>
+          <Comment Foreground="clBlue" Style="fsBold"/>
+          <Assembler Foreground="clGreen" Style="fsBold" UseSchemeGlobals="False"/>
+          <Directive Foreground="clRed" Style="fsBold,fsItalic" UseSchemeGlobals="False"/>
+          <Reserved_word Style="fsBold"/>
+        </SchemeIk>
+      </LangObjectPascal>
+      <LangLazarus_Form_definition Version="6">
+        <SchemeIk>
+          <Key Style="fsBold"/>
+          <Number Foreground="clNavy"/>
+          <String Foreground="clBlue"/>
+          <Symbol Foreground="clRed"/>
+          <Comment Foreground="clBlue" Style="fsBold"/>
+          <ahaBracketMatch FrameColor="clNone" StyleMask=""/>
+        </SchemeIk>
+      </LangLazarus_Form_definition>
+      <LangXML_document Version="6">
+        <SchemeIk>
+          <Text Foreground="clBlack" Style="fsBold"/>
+          <Symbol Foreground="clRed"/>
+          <Comment Foreground="clBlue" Style="fsBold"/>
+          <Element_Name Foreground="clMaroon" Style="fsBold"/>
+          <CDATA_Section Foreground="clOlive" Style="fsItalic"/>
+          <Attribute_Name Foreground="clMaroon"/>
+          <ahaBracketMatch FrameColor="clNone" StyleMask=""/>
+          <Attribute_Value Foreground="clNavy" Style="fsBold"/>
+          <DOCTYPE_Section Foreground="clBlue" Style="fsItalic"/>
+          <Entity_Reference Foreground="clBlue" Style="fsBold"/>
+          <Processing_Instruction Foreground="clBlue"/>
+          <Namespace_Attribute_Name Foreground="clRed"/>
+          <Namespace_Attribute_Value Foreground="clRed" Style="fsBold"/>
+        </SchemeIk>
+      </LangXML_document>
+      <LangHTML_document Version="6">
+        <SchemeIk>
+          <Asp Background="clYellow" Foreground="clBlack"/>
+          <Value Foreground="16744448"/>
+          <Symbol Foreground="clRed"/>
+          <Comment Foreground="clBlue" Style="fsBold"/>
+          <Identifier Style="fsBold"/>
+          <Unknown_word Foreground="clRed" Style="fsBold"/>
+          <Reserved_word Style="fsBold"/>
+          <ahaBracketMatch FrameColor="clNone" StyleMask=""/>
+          <Escape_ampersand Foreground="clLime" Style="fsBold"/>
+        </SchemeIk>
+      </LangHTML_document>
+      <LangC__ Version="6">
+        <SchemeIk>
+          <Space Foreground="clWindow"/>
+          <Number Foreground="clNavy"/>
+          <String Foreground="clBlue"/>
+          <Symbol Foreground="clRed"/>
+          <Comment Foreground="clBlue" Style="fsBold"/>
+          <Assembler Foreground="clGreen"/>
+          <Preprocessor Foreground="clBlue" Style="fsBold"/>
+          <Reserved_word Style="fsBold"/>
+          <ahaBracketMatch FrameColor="clNone" StyleMask=""/>
+        </SchemeIk>
+      </LangC__>
+      <LangPerl Version="6">
+        <SchemeIk>
+          <Space Foreground="clWindow"/>
+          <Number Foreground="clNavy"/>
+          <Pragma Style="fsBold"/>
+          <String Foreground="clBlue"/>
+          <Symbol Foreground="clRed"/>
+          <Comment Foreground="clBlue" Style="fsBold"/>
+          <Variable Style="fsBold"/>
+          <Reserved_word Style="fsBold"/>
+          <ahaBracketMatch FrameColor="clNone" StyleMask=""/>
+        </SchemeIk>
+      </LangPerl>
+      <LangJava Version="6">
+        <SchemeIk>
+          <Space Foreground="clWindow"/>
+          <Number Foreground="clNavy"/>
+          <String Foreground="clBlue"/>
+          <Symbol Foreground="clRed"/>
+          <Comment Foreground="clBlue" Style="fsBold"/>
+          <Documentation Foreground="clBlue" Style="fsBold"/>
+          <Reserved_word Style="fsBold"/>
+          <ahaBracketMatch FrameColor="clNone" StyleMask=""/>
+        </SchemeIk>
+      </LangJava>
+      <LangUNIX_Shell_Script Version="6">
+        <SchemeIk>
+          <Number Foreground="clNavy"/>
+          <String Foreground="clBlue"/>
+          <Symbol Foreground="clRed"/>
+          <Comment Foreground="clBlue" Style="fsBold"/>
+          <Variable Foreground="clPurple"/>
+          <Reserved_word Style="fsBold"/>
+          <ahaBracketMatch FrameColor="clNone" StyleMask=""/>
+        </SchemeIk>
+      </LangUNIX_Shell_Script>
+      <LangPython Version="6">
+        <SchemeIk>
+          <Float Foreground="clBlue"/>
+          <Octal Foreground="clBlue"/>
+          <Number Foreground="clNavy"/>
+          <String Foreground="clBlue"/>
+          <Symbol Foreground="clRed"/>
+          <Comment Foreground="clBlue" Style="fsBold"/>
+          <Hexadecimal Foreground="clBlue"/>
+          <SyntaxError Foreground="clRed"/>
+          <Documentation Foreground="clBlue" Style="fsBold"/>
+          <Reserved_word Style="fsBold"/>
+          <ahaBracketMatch FrameColor="clNone" StyleMask=""/>
+          <Non_reserved_keyword Foreground="clNavy" Style="fsBold"/>
+          <System_functions_and_variables Style="fsBold"/>
+        </SchemeIk>
+      </LangPython>
+      <LangPHP Version="6">
+        <SchemeIk>
+          <Number Foreground="clNavy"/>
+          <String Foreground="clBlue"/>
+          <Symbol Foreground="clRed"/>
+          <Comment Foreground="clBlue" Style="fsBold"/>
+          <Reserved_word Style="fsBold"/>
+          <ahaBracketMatch FrameColor="clNone" StyleMask=""/>
+        </SchemeIk>
+      </LangPHP>
+      <LangSQL Version="6">
+        <SchemeIk>
+          <Number Foreground="clNavy"/>
+          <String Foreground="clBlue"/>
+          <Symbol Foreground="clRed"/>
+          <Comment Foreground="clBlue" Style="fsBold"/>
+          <Function Style="fsBold"/>
+          <Data_type Style="fsBold"/>
+          <Exception Style="fsItalic"/>
+          <Reserved_word Style="fsBold"/>
+          <ahaBracketMatch FrameColor="clNone" StyleMask=""/>
+          <Default_packages Style="fsBold"/>
+          <SQL_Plus_command Style="fsBold"/>
+          <Reserved_word__PL_SQL_ Style="fsBold"/>
+        </SchemeIk>
+      </LangSQL>
+      <LangJavascript Version="6">
+        <SchemeIk>
+          <Number Foreground="clNavy"/>
+          <String Foreground="clBlue"/>
+          <Symbol Foreground="clRed"/>
+          <Comment Foreground="clBlue" Style="fsBold"/>
+          <Reserved_word Style="fsBold"/>
+          <ahaBracketMatch FrameColor="clNone" StyleMask=""/>
+        </SchemeIk>
+      </LangJavascript>
+      <LangDiff_File Version="6">
+        <SchemeIk>
+          <Unknown_word Style="fsItalic"/>
+          <Diff_New_File Background="clGreen" Style="fsBold"/>
+          <ahaBracketMatch FrameColor="clNone" StyleMask=""/>
+          <Diff_Added_line Foreground="clGreen"/>
+          <Diff_Changed_Line Foreground="clPurple"/>
+          <Diff_Chunk_Marker Style="fsBold"/>
+          <Diff_Removed_Line Foreground="clRed"/>
+          <Diff_Original_File Background="clRed" Style="fsBold"/>
+          <Diff_Chunk_Line_Counts Foreground="clPurple" Style="fsBold"/>
+          <Diff_Chunk_New_Line_Count Foreground="clGreen" Style="fsBold"/>
+          <Diff_Chunk_Original_Line_Count Foreground="clRed" Style="fsBold"/>
+        </SchemeIk>
+      </LangDiff_File>
+      <LangMS_DOS_batch_language Version="6">
+        <SchemeIk>
+          <Key Style="fsBold"/>
+          <Number Foreground="clBlue"/>
+          <Comment Foreground="clNavy" Style="fsItalic"/>
+          <Variable Foreground="clGreen"/>
+          <ahaBracketMatch FrameColor="clNone" StyleMask=""/>
+        </SchemeIk>
+      </LangMS_DOS_batch_language>
+      <LangINI_file Version="6">
+        <SchemeIk>
+          <Comment Foreground="clGreen" Style="fsItalic"/>
+          <Section Style="fsBold"/>
+          <ahaBracketMatch FrameColor="clNone" StyleMask=""/>
+        </SchemeIk>
+      </LangINI_file>
+    </ColorSchemes>
+  </Lazarus>
+</CONFIG>
